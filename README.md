@@ -16,3 +16,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
+- How to obfuscate production builds of your Angular app
+
+https://surya-dev-journey.hashnode.dev/how-to-obfuscate-production-builds-of-your-angular-app
