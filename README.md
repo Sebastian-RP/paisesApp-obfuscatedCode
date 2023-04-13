@@ -14,9 +14,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-- How to obfuscate production builds of your Angular app
+## How to obfuscate production builds of your Angular app
 
 https://surya-dev-journey.hashnode.dev/how-to-obfuscate-production-builds-of-your-angular-app
 
