@@ -19,3 +19,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 - How to obfuscate production builds of your Angular app
 
 https://surya-dev-journey.hashnode.dev/how-to-obfuscate-production-builds-of-your-angular-app
+
+obfuscating the code makes it less readable for humans but you keep the same functionalities for the machine
+
+![less-readable](https://user-images.githubusercontent.com/55423389/231762692-3dc385af-4b91-428c-8742-c2f0c2a02c2f.PNG)
