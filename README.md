@@ -41,7 +41,8 @@ https://www.npmjs.com/package/webpack-better-obfuscator
 Next I will show the configuration that I personally use, and in the case of the settings in the custom-webpack file you will find all those that are available in its documentation, do not forget that you must create the custom-webpack.config.js file in the root of the project
 
 ## angular.json
-![modificar el angular-json](https://user-images.githubusercontent.com/55423389/233411011-c7c1995c-1ab3-49c8-b171-4dc3fa7b7aa1.PNG)
+![modificar el angular-json](https://user-images.githubusercontent.com/55423389/233411266-08c66406-519e-4941-b943-5801026202c2.PNG)
+
 
 ## custom-webpack.config.js
 ![custom-webpack](https://user-images.githubusercontent.com/55423389/233251204-4f32c5c8-2bb0-4313-8208-6b58ce5a4d45.png)
