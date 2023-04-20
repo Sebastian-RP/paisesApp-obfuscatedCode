@@ -32,6 +32,7 @@ in this case I use the following commands to install the npm packages
 npm install -D @angular-builders/custom-webpack@11.1.1
 <br/>
 npm install --save-dev webpack-better-obfuscator
+
 https://www.npmjs.com/package/webpack-better-obfuscator
 
 
