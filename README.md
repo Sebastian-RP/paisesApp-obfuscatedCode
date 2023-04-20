@@ -28,7 +28,9 @@ obfuscating the code makes it less readable for humans but you keep the same fun
 # Example in a project with angular-cli v11 and node v14 and webpack v4
 
 in this case I use the following commands to install the npm packages
+<br/>
 npm install -D @angular-builders/custom-webpack@11.1.1
+<br/>
 npm install --save-dev webpack-better-obfuscator
 
 
