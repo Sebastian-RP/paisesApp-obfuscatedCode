@@ -22,7 +22,7 @@ obfuscating the code makes it less readable for humans but you keep the same fun
 
 ![less-readable](https://user-images.githubusercontent.com/55423389/231762692-3dc385af-4b91-428c-8742-c2f0c2a02c2f.PNG)
 
-##Example in a project with angular-cli v11 and node v14 and webpack v4
+# Example in a project with angular-cli v11 and node v14 and webpack v4
 
 in this case I use the following commands to install the npm packages
 npm install -D @angular-builders/custom-webpack@11.1.1
@@ -31,10 +31,10 @@ npm install --save-dev webpack-better-obfuscator
 
 Next I will show the configuration that I personally use, and in the case of the settings in the custom-webpack file you will find all those that are available in its documentation, do not forget that you must create the custom-webpack.config.js file in the root of the project
 
-##angular.json
+## angular.json
 ![angular-json-config](https://user-images.githubusercontent.com/55423389/233251075-56e039b4-390a-465c-85a7-fac7f442afa1.PNG)
 
-##custom-webpack.config.js
+## custom-webpack.config.js
 ![custom-webpack](https://user-images.githubusercontent.com/55423389/233251204-4f32c5c8-2bb0-4313-8208-6b58ce5a4d45.png)
 
 
