@@ -22,6 +22,9 @@ obfuscating the code makes it less readable for humans but you keep the same fun
 
 ![less-readable](https://user-images.githubusercontent.com/55423389/231762692-3dc385af-4b91-428c-8742-c2f0c2a02c2f.PNG)
 
+
+<hr/>
+
 # Example in a project with angular-cli v11 and node v14 and webpack v4
 
 in this case I use the following commands to install the npm packages
