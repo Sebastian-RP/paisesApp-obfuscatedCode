@@ -34,6 +34,8 @@ npm install -D @angular-builders/custom-webpack@11.1.1
 npm install --save-dev webpack-better-obfuscator
 
 https://www.npmjs.com/package/webpack-better-obfuscator
+<br/>
+https://www.npmjs.com/package/@angular-builders/custom-webpack
 
 
 Next I will show the configuration that I personally use, and in the case of the settings in the custom-webpack file you will find all those that are available in its documentation, do not forget that you must create the custom-webpack.config.js file in the root of the project
